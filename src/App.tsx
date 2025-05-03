@@ -38,7 +38,7 @@ const App = () => (
                 <div className="container mx-auto px-4 text-center">
                   <p className="mb-2">© 2025 Dzair Styles - All rights reserved</p>
                   <p className="text-sm text-gray-400">Beautiful Algerian Clothing</p>
-                  <p className="text-sm text-gray-300">Developed by Oulaliahine Mohamed Ramzi and Abderraouf Soualmi</p>
+                  <p className="text-sm text-gray-300">Developed by Oulaliahine Mohamed Ramzi and Abderraouf Soualmi and Ouziala ali</p>
                 </div>
               </footer>
             </div>
