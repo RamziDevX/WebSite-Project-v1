@@ -3,7 +3,7 @@
            Students : 1.Soualmi Abderraouf
                       2.Oulaliahine Mohamed Ramzi
 3. Ouziala Ali
-
+4.Razibaouene Mustapha Nazim
                     ## Project description:
 
                     This is a fully functional e-commerce website developed to provide users with a smooth online shopping experience. It includes features such as product browsing, shopping cart management, order processing, and secure checkout. The site is designed with responsiveness and user experience in mind, making it accessible across various devices. Built using HTML, CSS, JavaScript, Node.js, and react, this project demonstrates core principles of web development and backend integration.
